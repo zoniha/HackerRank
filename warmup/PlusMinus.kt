@@ -24,6 +24,7 @@ fun plusMinus(arr: Array<Int>, num: Double): Unit {
 
 }
 
+
 fun main(args: Array<String>) {
     val n = readLine()!!.trim().toInt()
 
